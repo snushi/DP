@@ -14,7 +14,7 @@ namespace DesignPatternsExamples
         public static void Main(string[] args)
         {
             #region Observer Pattern Example
-
+//kntest
             //WeatherData weatherData = new WeatherData(); //Subject
 
             //IObserver currentDisplay = new CurrentConditionDisplay(weatherData); //Observer
